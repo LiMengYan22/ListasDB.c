@@ -1,2 +1,2 @@
 # ListasDB.c
-Meter listas de *cadena de caracteres* a **Database.txt** con lenguaje C
+Meter listas de Usuari@s con *cadena de caracteres* @ **Database.txt** con lenguaje C..
